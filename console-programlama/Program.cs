@@ -12,7 +12,7 @@ namespace console_programlama
             Console.WriteLine("Soyadinizi Giriniz:");
             string soyad = Console.ReadLine();
 
-            Console.WriteLine("Merhaba"+ name + " " + soyad );
+            Console.WriteLine("Merhaba "+ name + " " + soyad );
 
         }
     }
