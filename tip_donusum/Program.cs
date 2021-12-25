@@ -6,7 +6,7 @@ namespace tip_donusum
     {
         static void Main(string[] args)
         {
-            yte x = 1;
+            byte x = 1;
             sbyte y = 2;
             short z = 3;
 
