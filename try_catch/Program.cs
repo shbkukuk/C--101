@@ -10,7 +10,7 @@ namespace try_catch_finally
             try{
                 Console.WriteLine("Bir sayi giriniz : ");
                 int a =Convert.ToInt32((Console.ReadLine()));
-                Console.ReadLine("Girdiğiniz sayı değeri : %d ",a);
+                Console.WriteLine("Girdiğiniz sayı değeri :  " + a);
             }
             catch(Exception ex){
                 Console.WriteLine("Girdiğiniz sayi değil: " + ex.ToString());

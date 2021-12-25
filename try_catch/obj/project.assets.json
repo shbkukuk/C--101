@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SÜHA BERK KUKUK\\C# 101\\try_catch_finally\\try_catch_finally.csproj",
-      "projectName": "try_catch_finally",
-      "projectPath": "C:\\Users\\SÜHA BERK KUKUK\\C# 101\\try_catch_finally\\try_catch_finally.csproj",
+      "projectUniqueName": "C:\\Users\\SÜHA BERK KUKUK\\C# 101\\try_catch\\try_catch.csproj",
+      "projectName": "try_catch",
+      "projectPath": "C:\\Users\\SÜHA BERK KUKUK\\C# 101\\try_catch\\try_catch.csproj",
       "packagesPath": "C:\\Users\\SÜHA BERK KUKUK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SÜHA BERK KUKUK\\C# 101\\try_catch_finally\\obj\\",
+      "outputPath": "C:\\Users\\SÜHA BERK KUKUK\\C# 101\\try_catch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SÜHA BERK KUKUK\\AppData\\Roaming\\NuGet\\NuGet.Config",
