@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = try_catch
-build_property.ProjectDir = c:\Users\SÜHA BERK KUKUK\C# 101\try_catch\
+build_property.RootNamespace = karar_yapıları
+build_property.ProjectDir = c:\Users\SÜHA BERK KUKUK\C# 101\karar_yapıları\
